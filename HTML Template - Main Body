@@ -1,0 +1,392 @@
+<!--main photo-->
+<div style="text-align: center;">&lt;Main Photo Here&gt;</div>
+<!--Request More Information-->
+<div style="text-align: center;"><img src="http://150116017.homesconnect.com/AccountData/150116017/btn_request_more_info.png" alt="btn_request_more_info.png" title="Request More Information" style="margin: 0px;" width="279" height="59" border="0"></a>
+</div>
+<div style="text-align: center;"><br></div>
+<!--introduction-->
+<div style="text-align: center;"><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">%Variable%introduction%</span></div>
+<div style="text-align: center;"><br></div>
+<!--table for gallery, brochure, property search, map, and schedule a showing buttons-->
+<div style="text-align: center;">
+  <table style="width: 100%;" align="" cellspacing="1" cellpadding="1" border="0">
+    <tbody>
+      <tr>
+        <!--Photo Gallery-->
+        <td style="text-align: center; ">
+          <!--link to gallery-->
+          <a href="" title=""><img src="http://150116017.homesconnect.com/AccountData/150116017/PhotoGallery.png" alt="PhotoGallery.png" title="Photo Gallery" style="margin:0 0 0 0" height="100" align="middle" width="100" border="0"></a><br></td>
+        <!--Brochure-->
+        <td style="text-align: center; ">
+          <!--link to brochure-->
+          <a href="" title="Download pdf brochure" target="_blank"><img src="http://150116017.homesconnect.com/AccountData/150116017/Brochure.png" alt="Brochure.png" title="PDF Brochure" style="margin:0 0 0 0" height="90" align="middle" width="90" border="0"></a><br></td>
+        <!--Schedule a showing-->
+        <td style="text-align: center;">
+          <a href="/contactme/default.aspx" title="Schedule an appointment"><img src="http://150116017.homesconnect.com/AccountData/150116017/ScheduleShowing.png" alt="ScheduleShowing.png" title="Schedule a Showing" style="margin:0 0 0 0" height="90" align="middle" width="90" border="0"></a><br></td>
+      </tr>
+      <!--icon labels-->
+      <tr>
+        <td style="text-align: center; ">Photo Gallery<br><br><br></td>
+        <td style="text-align: center; ">Brochure<br><br><br></td>
+        <td style="text-align: center; ">Schedule a showing<br><br><br></td>
+      </tr>
+      <!--Property Search-->
+      <tr>
+        <td style="text-align: center;">
+          <!--link to search-->
+          <a href="" title=""><img src="http://150116017.homesconnect.com/AccountData/150116017/HomeSearch.png" alt="HomeSearch.png" title="Active Listing Search" style="margin:0 0 0 0" height="76" align="middle" width="76" border="0"></a><br></td>
+        <td style="text-align: center;"><br></td>
+        <!--Map-->
+        <td style="text-align: center;">
+          <a href="" title="" target="_blank"><img src="http://150116017.homesconnect.com/AccountData/150116017/Map-icon-Mister-Pixel-Noun-Project.png" alt="Map-icon-Mister-Pixel-Noun-Project.png" title="View on Google Maps" style="margin:0 0 0 0" height="73" width="88" border="0"></a><br></td>
+      </tr>
+      <!--icon labels-->
+      <tr>
+        <td style="text-align: center; ">Property Search</td>
+        <td style="text-align: center; "><br></td>
+        <td style="text-align: center; ">Map&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!--Safety-->
+<div style="text-align: center;">
+  <div style="text-align: left;"><br><br>
+    <table align="" border="0" cellspacing="1" cellpadding="1" style="width: 100%;">
+      <tbody>
+        <tr>
+          <td><b><font size="5">Safety</font></b></td>
+          <td><br></td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Police-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/PoliceStationFilled.png" alt="PoliceStationFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">&nbsp;Police Detachment<br></td>
+          <td rowspan="1">%Variable%police%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Hospital-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/Hospital3Filled.png" alt="Hospital3Filled.png" width="50" height="50" border="0" style="margin:0 0 0 0">&nbsp;Hospital<br></td>
+          <td>%Variable%hospital%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Dentist-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/ToothFilled.png" alt="ToothFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Dentist<br></td>
+          <td>%Variable%dentist%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Fire Department-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/FireStationFilled.png" alt="FireStationFilled.png" width="50" height="50" border="0" style="margin: 0px;">Fire Department</td>
+          <td rowspan="1">%Variable%fireDepartment%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Airport-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/AirplaneTakeOffFilled.png" alt="AirplaneTakeOffFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Airport<br></td>
+          <td rowspan="1">%Variable%airport%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+      </tbody>
+    </table><br></div>
+  <div style="text-align: left;"><br></div>
+  <div style="text-align: left;">
+    <!--Schools-->
+    <table style="width: 100%;" align="" cellspacing="1" cellpadding="1" border="0">
+      <tbody>
+        <tr>
+          <td style="text-align: left;" rowspan="1" align="left"><img src="http://150116017.homesconnect.com/AccountData/150116017/SchoolFilled.png" alt="SchoolFilled.png" style="margin:0 0 0 0" height="50" width="50" border="0">Schools<br></td>
+          <td style="text-align: left;" rowspan="1">%Variable%schools%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="text-align: left;"><br></div>
+  <div style="text-align: left;">
+    <!--Restaurants-->
+    <table align="" border="0" cellspacing="1" cellpadding="1" style="width: 100%;">
+      <tbody>
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/RestaurantTableFilled.png" alt="RestaurantTableFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Restaurants<br></td>
+          <td>%Variable%restaurants%</td>
+        </tr>
+      </tbody>
+    </table><br></div>
+  <div style="text-align: left;">
+    <!--Parks & Recreation-->
+    <table style="width: 100%;" align="" cellspacing="1" cellpadding="1" border="0">
+      <tbody>
+        <tr>
+          <td>
+            <font size="5"><b>Parks &amp; Recreation &nbsp;</b></font>&nbsp; <br><br></td>
+          <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+        </tr>
+        <!--Parks-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/LandscapeFilled.png" alt="LandscapeFilled.png" title="Parks" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Parks</td>
+          <td>%Variable%parks%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Dog Parks-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/DogParkFilled.png" alt="DogParkFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Dog Parks<br></td>
+          <td>%Variable%dogParks%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Community Centre-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/BuildingFilled.png" alt="BuildingFilled.png" title="Community Centre" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Community Centre</td>
+          <td>%Variable%communityCentre%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Beach-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/WaterElementFilled.png" alt="WaterElementFilled.png" width="50" height="50" border="0" style="margin: 0px;">Beach<br></td>
+          <td>%Variable%beach%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Boardwalk-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/SunbatheFilled.png" alt="SunbatheFilled.png" width="50" height="50" border="0" style="margin: 0px;">&nbsp;Boardwalk</td>
+          <td rowspan="1">%Variable%boardwalk%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Arena-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/ArenaFilled.png" alt="ArenaFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">&nbsp;Arena<br></td>
+          <td rowspan="1">%Variable%arena%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Golf-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/GolfFilled.png" alt="GolfFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Golf<br></td>
+          <td rowspan="1">%Variable%golf%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Skiing-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/SkiingFilled.png" alt="SkiingFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Skiing<br></td>
+          <td rowspan="1">%Variable%skiing%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Hiking-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/TrekkingFilled.png" alt="TrekkingFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Hiking<br></td>
+          <td rowspan="1">%Variable%hiking%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Mountain Biking-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/CyclingMountainBikeFilled.png" alt="CyclingMountainBikeFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Mountain Biking<br></td>
+          <td rowspan="1">%Variable%mountainBiking%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+      </tbody>
+    </table><br></div>
+  <div style="text-align: left;">
+    <!--Convenience-->
+    <table style="width: 100%;" align="" cellspacing="1" cellpadding="1" border="0">
+      <tbody>
+        <tr>
+          <td>
+            <font size="5"><b>Convenience <br><br></b></font>
+          </td>
+          <td><br></td>
+        </tr>
+        <!--Shopping/Grocery-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/ShopFilled.png" alt="ShopFilled.png" title="Shopping" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Shopping/Grocery</td>
+          <td>%Variable%shoppingGrocery%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Dry Cleaning-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/VacuumCleanerFilled.png" alt="VacuumCleanerFilled.png" title="Dry Cleaners" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Dry Cleaning</td>
+          <td>%Variable%dryCleaning%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Pharmacy-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/PrescriptionPillBottleFilled.png" alt="PrescriptionPillBottleFilled.png" title="Pharmacy" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Pharmacy</td>
+          <td>%Variable%pharmacy%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Coffee Shop-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/CafeFilled.png" alt="CafeFilled.png" title="Coffee Shop" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Coffee Shop</td>
+          <td>%Variable%coffeeShop%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+        <!--Gas Station-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/GasStationFilled.png" alt="GasStationFilled.png" title="Gas Station" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Gas Station</td>
+          <td>%Variable%gasStation%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Boat Launch-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/BoatLeavingPortFilled.png" alt="BoatLeavingPortFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Boat Launch<br></td>
+          <td rowspan="1">%Variable%boatLaunch%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Moorage-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/SailBoatFilled.png" alt="SailBoatFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">&nbsp;Moorage<br></td>
+          <td rowspan="1">%Variable%moorage%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Fitness-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/ExerciseFilled.png" alt="ExerciseFilled.png" title="Fitness" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Fitness</td>
+          <td>%Variable%fitness%</td>
+        </tr>
+        <tr>
+          <td>&nbsp;<br></td>
+          <td><br></td>
+        </tr>
+        <!--Tennis-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/TennisFilled.png" alt="TennisFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Tennis<br></td>
+          <td>%Variable%tennis%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Yoga-->
+        <tr>
+          <td rowspan="1"><img src="http://150116989.homesconnect.com/AccountData/150116989/MeditationGuruFilled.png" alt="MeditationGuruFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Yoga<br></td>
+          <td rowspan="1">%Variable%yoga%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Breweries-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/BeerFilled.png" alt="BeerFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Breweries</td>
+          <td>%Variable%breweries%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Wineries-->
+        <tr>
+          <td rowspan="1"><img src="http://150116017.homesconnect.com/AccountData/150116017/GrapesFilled.png" alt="GrapesFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">Wineries<br></td>
+          <td rowspan="1">%Variable%wineries%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Liquor Store-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/WineBottleFilled.png" alt="WineBottleFilled.png" title="Liquor Store" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Liquor Store</td>
+          <td>%Variable%liquorStore%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Post Office-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/PostOfficeFilled.png" alt="PostOfficeFilled.png" title="Post Office" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Post Office</td>
+          <td>%Variable%postOffice%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Daycare-->
+        <tr>
+          <td><img src="http://150116017.homesconnect.com/AccountData/150116017/ChildrenFilled.png" alt="ChildrenFilled.png" title="DayCare" style="margin:0 0 0 0" height="50" width="50" border="0">&nbsp; Daycare</td>
+          <td rowspann="1">%Variable%daycare%</td>
+        </tr>
+        <tr>
+          <td rowspan="1"><br></td>
+          <td rowspan="1"><br></td>
+        </tr>
+        <!--Mall-->
+        <tr>
+          <td rowspan="1"><img src="http://150116989.homesconnect.com/AccountData/150116989/ShoppingBagFilled.png" alt="ShoppingBagFilled.png" width="50" height="50" border="0" style="margin:0 0 0 0">&nbsp;Mall<br></td>
+          <td rowspan="1">%Variable%mall%</td>
+        </tr>
+        <tr>
+          <td><br></td>
+          <td><br></td>
+        </tr>
+      </tbody>
+    </table><br></div>
+</div>
